@@ -5,6 +5,8 @@ List of Files:
 | File Name | Description |
 | --- | --- |
 | `General_Functions.py` | A suite of functions that produce formatted output |
+| `Test_Latex_in_Jupyter_Notebook.ipynb` | a simple tutorial to assimilate LaTeX into a Jypiter Notbook |
+| `Test_Latex_in_Jupyter_Notebook.ipynb` | a simple tutorial to assimilate LaTeX into a Jypiter Notbook |
 | `MyLogo.jpg` | The Logo of this project |
 
 **This is bold text**
