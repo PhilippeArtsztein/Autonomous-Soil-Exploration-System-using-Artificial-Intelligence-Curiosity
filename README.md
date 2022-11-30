@@ -5,7 +5,7 @@ List of Files:
 | File Name | Description |
 | --- | --- |
 | `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| `MyLogo.jpg` | The Logo of this project |
 
 **This is bold text**
 
