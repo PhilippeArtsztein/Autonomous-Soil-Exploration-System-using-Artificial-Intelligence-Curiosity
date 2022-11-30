@@ -1,9 +1,5 @@
 ## Autonomous Soil Exploration System using Artificial Curiosity
 
-###### <sub>Writing Github README: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax</sub>
-
-List of Files:
-
 | File Name | Description |
 | --- | --- |
 | `General_Functions.py` | A suite of functions that produce formatted output |
@@ -15,3 +11,4 @@ List of Files:
 
 **This is bold text**
 
+###### <sub>Writing Github README: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax</sub>
