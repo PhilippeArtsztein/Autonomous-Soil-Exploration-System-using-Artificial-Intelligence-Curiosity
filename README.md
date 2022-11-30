@@ -4,7 +4,7 @@ List of Files:
 
 | File Name | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
+| `General_Functions.py` | A suite of functions that produce formatted output |
 | `MyLogo.jpg` | The Logo of this project |
 
 **This is bold text**
