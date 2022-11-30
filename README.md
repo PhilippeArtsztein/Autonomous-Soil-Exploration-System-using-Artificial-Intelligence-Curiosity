@@ -1,4 +1,4 @@
-## Autonomous Soil Exploration System using Artificial Curiosity
+## Autonomous Soil Exploration System using Artificial Curiosity <img src="MyLogo.jpg" align="left" width="80">
 
 | File Name | Description | Status |
 | --- | --- | --- |
